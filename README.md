@@ -7,7 +7,19 @@ Project Pixel Art Maker | "Introduction to Programming" | Udacity Nanodegree
 
 ___
 
+**SKILLS**
+
+Front-end programming skills including:
+
+- Defining variables with *const* and *let*
+- Accessing the DOM using methods of the *document* object
+- Declaring functions and attaching them to DOM objects as event listeners
+- Writing nested loops and using loop variables
+
+___
+
 ![Screenshot1](/Lab_Pixel_Art_Maker.jpg "Pixel Art Maker")
+
 ___
 
 **LICENSE**
