@@ -7,14 +7,11 @@ Project Pixel Art Maker | "Introduction to Programming" | Udacity Nanodegree
 
 ___
 
-* A screenshot:
-
 ![Screenshot1](/Lab_Pixel_Art_Maker.jpg "Pixel Art Maker")
-
 ___
 
 **LICENSE**
 
 [MIT](https://github.com/dimikara/Pixel_Art/blob/master/LICENSE.md) License.
 
-Copyright (c) 2018 Dimitra Karamperi
+Copyright (c) 2018-2020 Dimitra Karamperi
