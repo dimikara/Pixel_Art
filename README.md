@@ -24,6 +24,6 @@ ___
 
 **LICENSE**
 
-[MIT](https://github.com/dimikara/Pixel_Art/blob/master/LICENSE.md) License.
+[MIT](https://github.com/dimikara/Pixel_Art/blob/master/LICENSE) License.
 
 Copyright (c) 2018-2020 Dimitra Karamperi
